@@ -45,8 +45,6 @@
 - [Create games with unity using Bolt](https://www.udemy.com/course/create-games-with-unity-using-bolt-visual-scripting/)
 - [Build life simulation game with bolt](https://www.udemy.com/course/bolt-unity-visual-scripting-life-simulator-game-development-playmaker/)
 ## Unity Asset Store
-### UI
-- [Bolt UI Manager](undefined)
 ### Data
 - [Bolt Data Manager](https://publisher.assetstore.unity3d.com/package.html?id=562028)
 ### Tweening
