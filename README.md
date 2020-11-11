@@ -21,6 +21,7 @@
 - [Discord](https://discord.com/invite/5FacdJH)
 - [Forum](https://forum.unity.com/forums/visual-scripting.537)
 - [Roadmap](https://forum.unity.com/threads/visual-scripting-roadmap-update-september-2020.978732/)
+- [Style Guide](https://github.com/YoloGameStudio/bolt-style-guide)
 ### Youtube Channels
 - [Smart Penguins](https://www.youtube.com/channel/UCHDFEsDQ8dKjEBEVCbAPZZw)
 - [ChroneABI](https://www.youtube.com/channel/UCnafUCl-hEkyJJRjPH_WHbQ)
