@@ -29,6 +29,9 @@
 - [Megahertzs](https://www.youtube.com/channel/UCok3GwgJtk1ccN1_NXTaD_g)
 - [Blindsided Games](https://www.youtube.com/channel/UCaXTMEgs5frcTPvw9xq6NFw)
 ### Github repositories
+- [Bolt tips and tutorials](https://github.com/YoloGameStudio/bolt-tips-tutorials)
+- [Awesome Bolt](https://github.com/YoloGameStudio/awesome-bolt)
+- [Bolt Style Guide - Best Practice](https://github.com/YoloGameStudio/bolt-style-guide)
 - [Unity Bolt Samples](https://github.com/avashly/Unity-Bolt-Samples)
 - [Bolt Addons Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [The Completed project of Unity Official Tutorial](https://github.com/YoloGameStudio/GAME-unity-bolt-tutorial)
@@ -47,6 +50,7 @@
 - [Build life simulation game with bolt](https://www.udemy.com/course/bolt-unity-visual-scripting-life-simulator-game-development-playmaker/)
 ## Unity Asset Store
 ### Utilities
+- [Bolt Enhanced - Advance tools for Bolt]()https://assetstore.unity.com/packages/slug/186373
 - [Bolt Super Unit](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-super-units-177410)
 ### UI
 - [Bolt UI Manager](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-ui-manager-183904)
@@ -58,8 +62,10 @@
 - [Bolt Unit Events](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-unity-events-175821)
 ### Performance
 - [Bolt Pool](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-pool-180855)
+- [Bolt Validator](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-validator-185175)
 ## Game Jam
 ### Itch.io
+- [Community Bolt Jam #1]()
 - [Itch.io #1](https://itch.io/jam/boltjam-1-)
 - [Itch.io #2](https://itch.io/jam/boltjam-2)
 - [Itch.io #3](https://itch.io/jam/bolt-jam-3)
@@ -72,5 +78,19 @@
 ## Made with Bolt
 ### Free
 - [ClickClickHero](https://gamejolt.com/games/ClickClickHero/469406)
+
+# About Us
+- We are **YoloStudio** - an indie game studio creating **games** and **game development tools**.
+- For now, we are currently focusing on building **Unity Visual Script(Aka: Bolt)** development tools.
+
+## If you have any questions, don't hesitate to drop us a message
+- Website: [https://yolostudio.io/](https://yolostudio.io)
+- Email: [contact@yolostudio.io](mailto:contact@yolostudio.io)
+- Twitter: [https://twitter.com/yolostudiogame](https://twitter.com/yolostudiogame)
+- Youtube: [https://www.youtube.com/channel/UCWKmg_HuUyc34lVOMshSaDA/](https://www.youtube.com/channel/UCWKmg_HuUyc34lVOMshSaDA/)
+- Asset store: [https://assetstore.unity.com/publishers/49809](https://assetstore.unity.com/publishers/49809)
+- Bolt Community: [https://bolthub.net/](https://bolthub.net/)
+
+## Thank you very much!
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
